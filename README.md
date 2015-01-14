@@ -4,7 +4,7 @@ How to use eway Rapid API payment gateway using PHP. This class is an example of
 //=======================================================================================================================
 This application is example how to use eWAY Rapid API and implement.
 A codes is made by Web Active Corporation Pty Ltd.
-And customized by Krishna Bhat (krishna1bhat@gmail.com) for seasy.
+And customized by Krishna Bhat (krishna1bhat@gmail.com) for easy.
 
 You need modify following code to execute this example.
 
