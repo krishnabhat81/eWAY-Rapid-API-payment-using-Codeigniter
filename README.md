@@ -1,6 +1,6 @@
 This application is example how to use eWAY Rapid API and implement.
 A codes is made by Web Active Corporation Pty Ltd.
-And customized by Krishna Bhat (krishna1bhat@gmail.com) for easy.
+And customized by Krishna Bhat (yokrishnabhat@gmail.com) for easy.
 
 You need modify following code to execute this example.
 
