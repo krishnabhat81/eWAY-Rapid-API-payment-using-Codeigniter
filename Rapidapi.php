@@ -1,9 +1,8 @@
 <?php
 /**
 The library is customized by: Krishna Bhat
-Email: krishna1bhat@gmail.com
+Email: yokrishnabhat@gmail.com
 Address: Kathmandu, Nepal
-Contact: 00977-9848417043 
  **/
 
 /**
